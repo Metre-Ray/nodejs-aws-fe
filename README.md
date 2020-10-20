@@ -1,3 +1,9 @@
+# App with deploy to S3 from serverless
+
+Endpoint : http://rs-react-app.s3-website-eu-west-1.amazonaws.com
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
