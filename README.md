@@ -1,6 +1,10 @@
 # App with deploy to S3 from serverless
 
-Endpoint : http://rs-react-app.s3-website-eu-west-1.amazonaws.com
+Manually deployed to s3:  http://rs-react-app-2.s3-website-eu-west-1.amazonaws.com
+
+Manual cloudfront distribution: 	d3ih9lydm9qsew.cloudfront.net
+
+Deployed to s3 bucket with serverless : http://rs-react-app.s3-website-eu-west-1.amazonaws.com
 
 
 
